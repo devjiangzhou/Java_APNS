@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/source/!svn/ver/79120/pushMsg_iOS/src/com/topdt/push/service
+END
+PayloadUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/source/!svn/ver/79120/pushMsg_iOS/src/com/topdt/push/service/PayloadUtil.java
+END
+DeviceService.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/source/!svn/ver/79120/pushMsg_iOS/src/com/topdt/push/service/DeviceService.java
+END
+ThxApnsDelegate.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/source/!svn/ver/79120/pushMsg_iOS/src/com/topdt/push/service/ThxApnsDelegate.java
+END
+PushMessageService.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/source/!svn/ver/79120/pushMsg_iOS/src/com/topdt/push/service/PushMessageService.java
+END
+ThxApns.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/source/!svn/ver/79120/pushMsg_iOS/src/com/topdt/push/service/ThxApns.java
+END
+PushMessageThread.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/source/!svn/ver/79120/pushMsg_iOS/src/com/topdt/push/service/PushMessageThread.java
+END

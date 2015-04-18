@@ -1,0 +1,25 @@
+package com.topdt.push.service;
+
+import java.util.Map;
+
+import com.notnoop.apns.PayloadBuilder;
+import com.topdt.push.model.Message;
+
+public class PayloadUtil {
+
+	public static String payloadByMessage(Message message,Map<String, Object> map) {
+		PayloadBuilder payloadBuilder = PayloadBuilder.newPayload();
+		if (message.getContent() != null && message.getContent().length() > 0)
+			payloadBuilder.alertBody(message.getContent());
+		if (message.getBadge() > 0)
+			payloadBuilder.badge(message.getBadge());
+		if (message.getSound() != null)
+			payloadBuilder.sound(message.getSound());
+		if (map!=null) {
+			payloadBuilder.customFields(map);
+		}
+		return payloadBuilder.build();
+	}
+	
+	
+}

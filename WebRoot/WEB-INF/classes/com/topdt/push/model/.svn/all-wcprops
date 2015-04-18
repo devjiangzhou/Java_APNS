@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/source/!svn/ver/79120/pushMsg_iOS/src/com/topdt/push/model
+END
+PushDevice.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/source/!svn/ver/79120/pushMsg_iOS/src/com/topdt/push/model/PushDevice.java
+END
+PushMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/source/!svn/ver/79120/pushMsg_iOS/src/com/topdt/push/model/PushMessage.java
+END
+Message.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/source/!svn/ver/79120/pushMsg_iOS/src/com/topdt/push/model/Message.java
+END

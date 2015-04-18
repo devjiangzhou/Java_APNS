@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/source/!svn/ver/79120/pushMsg_iOS/src/com/notnoop/apns
+END
+ApnsNotification.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/source/!svn/ver/79120/pushMsg_iOS/src/com/notnoop/apns/ApnsNotification.java
+END
+PayloadBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/source/!svn/ver/79120/pushMsg_iOS/src/com/notnoop/apns/PayloadBuilder.java
+END
+ApnsServiceBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/source/!svn/ver/79120/pushMsg_iOS/src/com/notnoop/apns/ApnsServiceBuilder.java
+END
+ApnsDelegate.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/source/!svn/ver/79120/pushMsg_iOS/src/com/notnoop/apns/ApnsDelegate.java
+END
+ReconnectPolicy.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/source/!svn/ver/79120/pushMsg_iOS/src/com/notnoop/apns/ReconnectPolicy.java
+END
+ApnsDelegateAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/source/!svn/ver/79120/pushMsg_iOS/src/com/notnoop/apns/ApnsDelegateAdapter.java
+END
+EnhancedApnsNotification.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/source/!svn/ver/79120/pushMsg_iOS/src/com/notnoop/apns/EnhancedApnsNotification.java
+END
+APNS.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/source/!svn/ver/79120/pushMsg_iOS/src/com/notnoop/apns/APNS.java
+END
+DeliveryError.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/source/!svn/ver/79120/pushMsg_iOS/src/com/notnoop/apns/DeliveryError.java
+END
+ApnsService.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/source/!svn/ver/79120/pushMsg_iOS/src/com/notnoop/apns/ApnsService.java
+END
+SimpleApnsNotification.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/source/!svn/ver/79120/pushMsg_iOS/src/com/notnoop/apns/SimpleApnsNotification.java
+END

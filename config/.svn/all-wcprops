@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/source/!svn/ver/79120/pushMsg_iOS/config
+END
+pushMsgBean.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/source/!svn/ver/79120/pushMsg_iOS/config/pushMsgBean.xml
+END
+app-config.properties
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/source/!svn/ver/79120/pushMsg_iOS/config/app-config.properties
+END
+StateGrid_Production.p12
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/source/!svn/ver/79120/pushMsg_iOS/config/StateGrid_Production.p12
+END
+StateGrid_Developer.p12
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/source/!svn/ver/79120/pushMsg_iOS/config/StateGrid_Developer.p12
+END
+log4j.properties
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/source/!svn/ver/79120/pushMsg_iOS/config/log4j.properties
+END
+applicationContext.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/source/!svn/ver/79120/pushMsg_iOS/config/applicationContext.xml
+END
+pushDataSource.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/source/!svn/ver/79120/pushMsg_iOS/config/pushDataSource.xml
+END
+push.p12
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/source/!svn/ver/79120/pushMsg_iOS/config/push.p12
+END

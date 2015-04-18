@@ -1,0 +1,263 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/source/!svn/ver/79120/pushMsg_iOS/WebRoot/WEB-INF/lib
+END
+commons-pool-1.5.5.jar
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/source/!svn/ver/79120/pushMsg_iOS/WebRoot/WEB-INF/lib/commons-pool-1.5.5.jar
+END
+slf4j-api-1.5.11.jar
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/source/!svn/ver/79120/pushMsg_iOS/WebRoot/WEB-INF/lib/slf4j-api-1.5.11.jar
+END
+antlr-3.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/source/!svn/ver/79120/pushMsg_iOS/WebRoot/WEB-INF/lib/antlr-3.2.jar
+END
+spring-context-3.2.3.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/source/!svn/ver/79120/pushMsg_iOS/WebRoot/WEB-INF/lib/spring-context-3.2.3.RELEASE.jar
+END
+hibernate-commons-annotations-3.2.0.Final.jar
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/source/!svn/ver/79120/pushMsg_iOS/WebRoot/WEB-INF/lib/hibernate-commons-annotations-3.2.0.Final.jar
+END
+commons-collections-3.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/source/!svn/ver/79120/pushMsg_iOS/WebRoot/WEB-INF/lib/commons-collections-3.1.jar
+END
+hibernate-core-3.6.7.Final.jar
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/source/!svn/ver/79120/pushMsg_iOS/WebRoot/WEB-INF/lib/hibernate-core-3.6.7.Final.jar
+END
+spring-context-support-3.2.3.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/source/!svn/ver/79120/pushMsg_iOS/WebRoot/WEB-INF/lib/spring-context-support-3.2.3.RELEASE.jar
+END
+spring-webmvc-portlet-3.2.3.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/source/!svn/ver/79120/pushMsg_iOS/WebRoot/WEB-INF/lib/spring-webmvc-portlet-3.2.3.RELEASE.jar
+END
+com.springsource.org.aopalliance-1.0.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/source/!svn/ver/79120/pushMsg_iOS/WebRoot/WEB-INF/lib/com.springsource.org.aopalliance-1.0.0.jar
+END
+com.springsource.org.aspectj.weaver-1.6.8.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/source/!svn/ver/79120/pushMsg_iOS/WebRoot/WEB-INF/lib/com.springsource.org.aspectj.weaver-1.6.8.RELEASE.jar
+END
+antlr-runtime-3.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/source/!svn/ver/79120/pushMsg_iOS/WebRoot/WEB-INF/lib/antlr-runtime-3.2.jar
+END
+slf4j-api-1.6.4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/source/!svn/ver/79120/pushMsg_iOS/WebRoot/WEB-INF/lib/slf4j-api-1.6.4.jar
+END
+slf4j-log4j12-1.6.4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/source/!svn/ver/79120/pushMsg_iOS/WebRoot/WEB-INF/lib/slf4j-log4j12-1.6.4.jar
+END
+spring-jdbc-3.2.3.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/source/!svn/ver/79120/pushMsg_iOS/WebRoot/WEB-INF/lib/spring-jdbc-3.2.3.RELEASE.jar
+END
+commons-logging-1.1.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/source/!svn/ver/79120/pushMsg_iOS/WebRoot/WEB-INF/lib/commons-logging-1.1.1.jar
+END
+dom4j-1.6.jar
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/source/!svn/ver/79120/pushMsg_iOS/WebRoot/WEB-INF/lib/dom4j-1.6.jar
+END
+antlr-2.7.6h.jar
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/source/!svn/ver/79120/pushMsg_iOS/WebRoot/WEB-INF/lib/antlr-2.7.6h.jar
+END
+hibernate-jpa-2.0-api-1.0.1.Final.jar
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/source/!svn/ver/79120/pushMsg_iOS/WebRoot/WEB-INF/lib/hibernate-jpa-2.0-api-1.0.1.Final.jar
+END
+javassist-3.11.0.GA.jar
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/source/!svn/ver/79120/pushMsg_iOS/WebRoot/WEB-INF/lib/javassist-3.11.0.GA.jar
+END
+hibernate-entitymanager-3.3.2.GA.jar
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/source/!svn/ver/79120/pushMsg_iOS/WebRoot/WEB-INF/lib/hibernate-entitymanager-3.3.2.GA.jar
+END
+hibernate3.3.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/source/!svn/ver/79120/pushMsg_iOS/WebRoot/WEB-INF/lib/hibernate3.3.2.jar
+END
+spring-aop-3.2.3.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/source/!svn/ver/79120/pushMsg_iOS/WebRoot/WEB-INF/lib/spring-aop-3.2.3.RELEASE.jar
+END
+spring-beans-3.2.3.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/source/!svn/ver/79120/pushMsg_iOS/WebRoot/WEB-INF/lib/spring-beans-3.2.3.RELEASE.jar
+END
+spring-tx-3.2.3.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/source/!svn/ver/79120/pushMsg_iOS/WebRoot/WEB-INF/lib/spring-tx-3.2.3.RELEASE.jar
+END
+spring-webmvc-3.2.3.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/source/!svn/ver/79120/pushMsg_iOS/WebRoot/WEB-INF/lib/spring-webmvc-3.2.3.RELEASE.jar
+END
+log4j-1.2.15.jar
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/source/!svn/ver/79120/pushMsg_iOS/WebRoot/WEB-INF/lib/log4j-1.2.15.jar
+END
+mysql-connector-java-5.1.12-bin.jar
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/source/!svn/ver/79120/pushMsg_iOS/WebRoot/WEB-INF/lib/mysql-connector-java-5.1.12-bin.jar
+END
+spring-jms-3.2.3.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/source/!svn/ver/79120/pushMsg_iOS/WebRoot/WEB-INF/lib/spring-jms-3.2.3.RELEASE.jar
+END
+com.springsource.org.apache.commons.dbcp-1.2.2.osgi.jar
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/source/!svn/ver/79120/pushMsg_iOS/WebRoot/WEB-INF/lib/com.springsource.org.apache.commons.dbcp-1.2.2.osgi.jar
+END
+spring-test-3.2.3.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/source/!svn/ver/79120/pushMsg_iOS/WebRoot/WEB-INF/lib/spring-test-3.2.3.RELEASE.jar
+END
+topdt_dev.jar
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/source/!svn/ver/79120/pushMsg_iOS/WebRoot/WEB-INF/lib/topdt_dev.jar
+END
+spring-web-3.2.3.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/source/!svn/ver/79120/pushMsg_iOS/WebRoot/WEB-INF/lib/spring-web-3.2.3.RELEASE.jar
+END
+jta-1.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/source/!svn/ver/79120/pushMsg_iOS/WebRoot/WEB-INF/lib/jta-1.1.jar
+END
+spring-expression-3.2.3.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/source/!svn/ver/79120/pushMsg_iOS/WebRoot/WEB-INF/lib/spring-expression-3.2.3.RELEASE.jar
+END
+apns-0.2.4-SNAPSHOT-jar-with-dependencies.jar
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/source/!svn/ver/79120/pushMsg_iOS/WebRoot/WEB-INF/lib/apns-0.2.4-SNAPSHOT-jar-with-dependencies.jar
+END
+spring-aspects-3.2.3.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/source/!svn/ver/79120/pushMsg_iOS/WebRoot/WEB-INF/lib/spring-aspects-3.2.3.RELEASE.jar
+END
+spring-core-3.2.3.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/source/!svn/ver/79120/pushMsg_iOS/WebRoot/WEB-INF/lib/spring-core-3.2.3.RELEASE.jar
+END
+spring-struts-3.2.3.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/source/!svn/ver/79120/pushMsg_iOS/WebRoot/WEB-INF/lib/spring-struts-3.2.3.RELEASE.jar
+END
+spring-oxm-3.2.3.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/source/!svn/ver/79120/pushMsg_iOS/WebRoot/WEB-INF/lib/spring-oxm-3.2.3.RELEASE.jar
+END
+spring-instrument-3.2.3.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/source/!svn/ver/79120/pushMsg_iOS/WebRoot/WEB-INF/lib/spring-instrument-3.2.3.RELEASE.jar
+END
+spring-instrument-tomcat-3.2.3.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/source/!svn/ver/79120/pushMsg_iOS/WebRoot/WEB-INF/lib/spring-instrument-tomcat-3.2.3.RELEASE.jar
+END
+spring-orm-3.2.3.RELEASE.jar
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/source/!svn/ver/79120/pushMsg_iOS/WebRoot/WEB-INF/lib/spring-orm-3.2.3.RELEASE.jar
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/source/!svn/ver/79120/pushMsg_iOS/src/com/notnoop/exceptions
+END
+ApnsDeliveryErrorException.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/source/!svn/ver/79120/pushMsg_iOS/src/com/notnoop/exceptions/ApnsDeliveryErrorException.java
+END
+ApnsException.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/source/!svn/ver/79120/pushMsg_iOS/src/com/notnoop/exceptions/ApnsException.java
+END
+NetworkIOException.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/source/!svn/ver/79120/pushMsg_iOS/src/com/notnoop/exceptions/NetworkIOException.java
+END
+InvalidSSLConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/source/!svn/ver/79120/pushMsg_iOS/src/com/notnoop/exceptions/InvalidSSLConfig.java
+END
+RuntimeIOException.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/source/!svn/ver/79120/pushMsg_iOS/src/com/notnoop/exceptions/RuntimeIOException.java
+END

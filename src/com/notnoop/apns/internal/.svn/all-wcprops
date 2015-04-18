@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/source/!svn/ver/79120/pushMsg_iOS/src/com/notnoop/apns/internal
+END
+AbstractApnsService.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/source/!svn/ver/79120/pushMsg_iOS/src/com/notnoop/apns/internal/AbstractApnsService.java
+END
+QueuedApnsService.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/source/!svn/ver/79120/pushMsg_iOS/src/com/notnoop/apns/internal/QueuedApnsService.java
+END
+ApnsPooledConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/source/!svn/ver/79120/pushMsg_iOS/src/com/notnoop/apns/internal/ApnsPooledConnection.java
+END
+Utilities.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/source/!svn/ver/79120/pushMsg_iOS/src/com/notnoop/apns/internal/Utilities.java
+END
+TlsTunnelBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/source/!svn/ver/79120/pushMsg_iOS/src/com/notnoop/apns/internal/TlsTunnelBuilder.java
+END
+ApnsFeedbackConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/source/!svn/ver/79120/pushMsg_iOS/src/com/notnoop/apns/internal/ApnsFeedbackConnection.java
+END
+BatchApnsService.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/source/!svn/ver/79120/pushMsg_iOS/src/com/notnoop/apns/internal/BatchApnsService.java
+END
+ReconnectPolicies.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/source/!svn/ver/79120/pushMsg_iOS/src/com/notnoop/apns/internal/ReconnectPolicies.java
+END
+ApnsConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/source/!svn/ver/79120/pushMsg_iOS/src/com/notnoop/apns/internal/ApnsConnection.java
+END
+ApnsConnectionImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/source/!svn/ver/79120/pushMsg_iOS/src/com/notnoop/apns/internal/ApnsConnectionImpl.java
+END
+ApnsServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/source/!svn/ver/79120/pushMsg_iOS/src/com/notnoop/apns/internal/ApnsServiceImpl.java
+END

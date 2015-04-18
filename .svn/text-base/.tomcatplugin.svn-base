@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tomcatProjectProperties>
+    <rootDir>WebRoot</rootDir>
+    <exportSource>false</exportSource>
+    <reloadable>false</reloadable>
+    <redirectLogger>false</redirectLogger>
+    <updateXml>true</updateXml>
+    <warLocation></warLocation>
+    <extraInfo></extraInfo>
+    <webPath>/pushMsg</webPath>
+    <webClassPathEntries>
+        <webClassPathEntry>/Applications/apache-tomcat-7.0.42/lib/servlet-api.jar</webClassPathEntry>
+    </webClassPathEntries>
+</tomcatProjectProperties>
